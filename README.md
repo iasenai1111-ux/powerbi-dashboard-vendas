@@ -4,7 +4,19 @@ Relatório de acompanhamento de uma rede fictícia de quatro lojas, com 26 medid
 
 **👉 Aluno: comece pelo [passo a passo do exercício](PASSO_A_PASSO.md)**, que ensina a construir este dashboard do zero, com conferência de resultados em cada etapa.
 
-> 📸 Prints das páginas em breve.
+## Prévia
+
+**Metas de vendas**
+
+![Página Metas de vendas](prints/02-metas-de-vendas.png)
+
+**Visão geral de vendas**
+
+![Página Visão geral de vendas](prints/03-visao-geral.png)
+
+**Menu**
+
+![Página de menu](prints/01-menu.png)
 
 ## Páginas
 
