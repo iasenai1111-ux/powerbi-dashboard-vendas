@@ -108,6 +108,10 @@ Na **Exibição de Modelo**, arraste a coluna de uma tabela para a outra:
 | `fMetas[cod_loja]` | `dLoja[codigo_loja]` | Ativo |
 | `fMetas[data]` | `dCalendario[Date]` | Ativo |
 
+O modelo pronto fica assim:
+
+![Modelo de dados na Exibição de Modelo](prints/04-modelo-de-dados.png)
+
 Só pode haver um relacionamento ativo entre duas tabelas. O segundo, pela data de entrega, fica inativo e será ligado dentro de uma medida na Parte 6.
 
 > 🔴 **Erro comum:** relacionar `fVendas` com `fMetas` diretamente. Tabelas fato não se relacionam entre si; elas conversam pelas dimensões em comum (`dLoja` e `dCalendario`).
