@@ -112,6 +112,8 @@ O modelo pronto fica assim:
 
 ![Modelo de dados na Exibição de Modelo](prints/04-modelo-de-dados.png)
 
+Repare nas duas linhas entre `fVendas` e `dCalendario`: a contínua é o relacionamento ativo (data da venda) e a tracejada é o inativo (data da entrega).
+
 Só pode haver um relacionamento ativo entre duas tabelas. O segundo, pela data de entrega, fica inativo e será ligado dentro de uma medida na Parte 6.
 
 > 🔴 **Erro comum:** relacionar `fVendas` com `fMetas` diretamente. Tabelas fato não se relacionam entre si; elas conversam pelas dimensões em comum (`dLoja` e `dCalendario`).
