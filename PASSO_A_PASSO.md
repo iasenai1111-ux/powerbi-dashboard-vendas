@@ -239,6 +239,8 @@ Antes de arrastar visuais, defina o que cada página responde.
 
 **Página "Metas de vendas"**
 
+![Página Metas de vendas](prints/02-metas-de-vendas.png)
+
 | Visual | Campos |
 |---|---|
 | 3 cartões | `faturamento`, `meta`, `dif (real-meta)` |
@@ -249,6 +251,8 @@ Antes de arrastar visuais, defina o que cada página responde.
 | Segmentações | `ano` e `nome_loja` |
 
 **Página "Visão geral de vendas"**
+
+![Página Visão geral de vendas](prints/03-visao-geral.png)
 
 | Visual | Campos |
 |---|---|
@@ -265,6 +269,8 @@ Cuidados de layout:
 - Use uma cor principal e deixe as outras para destacar exceções (por exemplo, vermelho só para meta não batida).
 - Dê a cada visual um título que diga o que ele mostra.
 - Coloque os filtros sempre no mesmo lugar em todas as páginas.
+
+> ℹ️ Os prints servem de referência de layout. Os valores que aparecem neles podem ser diferentes dos checkpoints, que são calculados com o `BD.xlsx` deste repositório.
 
 > 🟢 **Checkpoint 7:** selecione "2020" e "Filial ES" nos filtros. Todos os visuais das duas páginas devem mudar. Se algum não mudar, revise os relacionamentos da Parte 3.
 
