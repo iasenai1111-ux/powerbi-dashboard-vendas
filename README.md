@@ -32,12 +32,7 @@ As duas páginas de análise têm filtros de **ano** e **filial**.
 
 Modelo estrela, com duas tabelas fato e quatro dimensões.
 
-```
-dCalendario ─┐
-dLoja ───────┼──► fVendas ◄── dProdutos
-dFuncionario ┘        
-dLoja ──────────► fMetas
-```
+![Modelo de dados](prints/04-modelo-de-dados.png)
 
 | Tabela | Tipo | Conteúdo |
 |---|---|---|
