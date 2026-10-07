@@ -276,7 +276,7 @@ Cuidados de layout:
 - Dê a cada visual um título que diga o que ele mostra.
 - Coloque os filtros sempre no mesmo lugar em todas as páginas.
 
-> ℹ️ Os prints servem de referência de layout. Os valores que aparecem neles podem ser diferentes dos checkpoints, que são calculados com o `BD.xlsx` deste repositório.
+> ℹ️ Os prints mostram o relatório com o `BD.xlsx` deste repositório e sem filtros, então os valores devem bater com os seus.
 
 > 🟢 **Checkpoint 7:** selecione "2020" e "Filial ES" nos filtros. Todos os visuais das duas páginas devem mudar. Se algum não mudar, revise os relacionamentos da Parte 3.
 
