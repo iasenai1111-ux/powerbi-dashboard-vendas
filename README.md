@@ -2,6 +2,8 @@
 
 Relatório de acompanhamento de uma rede fictícia de quatro lojas, com 26 medidas DAX que vão do básico à inteligência de tempo. Material de aula e referência para portfólio.
 
+**👉 Aluno: comece pelo [passo a passo do exercício](PASSO_A_PASSO.md)**, que ensina a construir este dashboard do zero, com conferência de resultados em cada etapa.
+
 > 📸 Prints das páginas em breve.
 
 ## Páginas
